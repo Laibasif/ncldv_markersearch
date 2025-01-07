@@ -1,0 +1,12 @@
+natsort==8.4.0
+pandas==2.2.3
+numpy==2.2.1
+biopython==1.81
+streamlit==1.41.1
+altair==5.5.0
+requests==2.32.3
+watchdog==6.0.0
+tenacity==9.0.0
+protobuf==5.29.2
+pydeck==0.9.1
+markdown-it-py==3.0.0
